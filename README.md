@@ -1,3 +1,12 @@
+# Whiskit 🍷
+It's Whisky but now alive.
+
+Whisky is a frontend for Wine for Mac. but now it's dead but this project revives it, with new features such as Liquid Glass (macOS Tahoe only), Wine bundler and more.
+
+The app is going to use the original WhiskyWine. We won't modify that one, yet.
+
+Here is the original README.
+
 <div align="center">
 
   # Whisky 🥃 
@@ -6,10 +15,6 @@
   ![](https://img.shields.io/github/actions/workflow/status/IsaacMarovitz/Whisky/SwiftLint.yml?style=for-the-badge)
   [![](https://img.shields.io/discord/1115955071549702235?style=for-the-badge)](https://discord.gg/CsqAfs9CnM)
 </div>
-
-## Maintenance Notice
-
-[Whisky is no longer actively maintained](https://docs.getwhisky.app/maintenance-notice). Apps and games may break at any time.
 
 <img width="650" alt="Config" src="https://github.com/Whisky-App/Whisky/assets/42140194/d0a405e8-76ee-48f0-92b5-165d184a576b">
 
